@@ -1,5 +1,5 @@
 # LeMoNIRHackSuite
-# 🍋 Lemon Ultimate Hacking Suite - راهنمای کامل
+# 🍋 MrLeMoNIR Hacking Suite - راهنمای کامل
 
 یک ابزار حرفه ای هک و امنیت برای ترموس
 
@@ -67,10 +67,10 @@ git clone https://github.com/MrLeMoNIR/LemonIRHackSuite
 cd LemonIRHackSuite
 
 # دادن مجوز اجرا
-chmod +x LemonIRHackSuite.sh
+chmod +x IRHackingSuite.sh
 
 # اجرای ابزار
-./LemonIRHackSuite.sh
+./IRHackingSuite.sh
 ```
 
 ## 🎮 آموزش استفاده
@@ -182,8 +182,7 @@ git pull origin main
 ## 📞 پشتیبانی
 
 - **روبیکا**: @PluginLemon
-- **ایمیل**: support@lemonhack.org
-- **گیت‌هاب**: Issues section
+- **گیت‌هاب**: MrLeMoNIR
 
 ---
 
